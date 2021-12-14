@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你好HEXO</title>
+      <link href="/2021/12/13/hello-world/"/>
+      <url>/2021/12/13/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎光临<a href="https://huajinet.cc/">滑稽博客</a> !这是你的第一个帖子。如果您在使用滑稽博客时遇到任何问题，您可以在<a href="http://wpa.qq.com/msgrd?v=3&uin=3514825663&site=qq&menu=yes">企鹅联系我</a>上问我。</p><h2 id="快速启动"><a href="#快速启动" class="headerlink" title="快速启动"></a>快速启动</h2><h3 id="HEXO创建一个新帖子"><a href="#HEXO创建一个新帖子" class="headerlink" title="HEXO创建一个新帖子"></a>HEXO创建一个新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><h3 id="HEXO运行服务器"><a href="#HEXO运行服务器" class="headerlink" title="HEXO运行服务器"></a>HEXO运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><h3 id="HEXO运行服务器-1"><a href="#HEXO运行服务器-1" class="headerlink" title="HEXO运行服务器"></a>HEXO运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><h3 id="HEXO部署到远程站点"><a href="#HEXO部署到远程站点" class="headerlink" title="HEXO部署到远程站点"></a>HEXO部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
